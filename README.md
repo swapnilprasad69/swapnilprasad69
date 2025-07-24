@@ -57,8 +57,8 @@ To blend my analytical rigor with real-world data problems — whether it's opti
 
 ## 📫 Let's Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/swapnilprasad)  
-📧 Email: swapnilprasad69@gmail.com  
+🔗 [LinkedIn]([https://www.linkedin.com/in/swapnilprasad](https://in.linkedin.com/in/swapnil-prasad-387295178))  
+📧 Email: swapnilprasad05@gmail.com  
 
 ---
 

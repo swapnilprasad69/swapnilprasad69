@@ -26,7 +26,7 @@ To blend my analytical rigor with real-world data problems — whether it's opti
 - 📈 [**Sales Analytics Dashboard (Power BI)**](https://github.com/swapnilprasad69/Superstore-Sales-Analysis-Dashboard-USA-Regions-Categories-)  
   Insightful dashboard analyzing USA-based Superstore sales — region-wise, category-wise, and product-wise breakdowns.
 
-- 🏙️ [**Indian Census 2011 Analysis**](https://github.com/swapnilprasad69/Indian_Census_2011_Analysis)  
+- 🏙️ [**Indian Census 2011 Analysis**]([https://github.com/swapnilprasad69/Indian_Census_2011_Analysis](https://github.com/swapnilprasad69/Indian-Census-2011-Analysis/tree/main))  
   Data-driven demographic storytelling using Python and Seaborn with district-wise heatmaps, literacy stats & correlations.
 
 - 🌾 [**Agricultural Data Analysis (ICRISAT)**](https://github.com/swapnilprasad69/Indian-Agriculture-Data-Analysis)  

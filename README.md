@@ -21,21 +21,6 @@ To blend my analytical rigor with real-world data problems — whether it's opti
 
 ---
 
-## 📂 Projects That Speak for Me
-
-- 📈 [**Sales Analytics Dashboard (Power BI)**](https://github.com/swapnilprasad69/Superstore-Sales-Analysis-Dashboard-USA-Regions-Categories-)  
-  Insightful dashboard analyzing USA-based Superstore sales — region-wise, category-wise, and product-wise breakdowns.
-
-- 🏙️ [**Indian Census 2011 Analysis**](https://github.com/swapnilprasad69/Indian-Census-2011-Analysis/tree/main)  
-  Data-driven demographic storytelling using Python and Seaborn with district-wise heatmaps, literacy stats & correlations.
-
-- 🌾 [**Agricultural Data Analysis (ICRISAT)**](https://github.com/swapnilprasad69/Indian-Agriculture-Data-Analysis)  
-  Python project diving into crop yield, area, and production trends across Indian districts (under development).
-
-- 💬 [**Quotes Web Scraper + EDA**](https://github.com/swapnilprasad69/Build-Week-Project-2)  
-  Web-scraped quotes, authors, and tags, stored in CSV and analyzed for NLP-ready insight patterns.
-
----
 
 ## 🛠️ Tech Stack
 

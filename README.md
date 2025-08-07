@@ -39,7 +39,13 @@ To blend my analytical rigor with real-world data problems — whether it's opti
 - Dreaming in rows, columns, and confidence intervals 😄
 
 ---
+## ⚡ Quick Stats
 
+![Swapnil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swapnilprasad69&show_icons=true&count_private=true&hide=prs,issues&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilprasad69&layout=compact&theme=dark)
+
+---
 ## 📫 Let's Connect
 
 🔗 [LinkedIn]([https://www.linkedin.com/in/swapnilprasad](https://in.linkedin.com/in/swapnil-prasad-387295178))  
